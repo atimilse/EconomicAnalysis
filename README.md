@@ -217,6 +217,32 @@ Although Philippines is classified as Upper-Middle based off of the World Bank T
 
 ---
 
+## Predictive Analysis of Economic Indicators (2023–2026)
+![Forecast Plots](images/Predictions.png)
+
+Linear regression models were used to forecast key economic indicators for Malaysia, Indonesia, and the Philippines. Linear regression was chosen over time series models like ARIMA or Prophet due to the limited dataset of only nine years and the absence of clear trends or seasonality, which those models typically require.
+
+The predictions are summarized as follows:
+
+#### Malaysia
+- Average inflation is expected to decrease, from 3.38% in 2022 to around 0.94% by 2026.
+- GDP per capita (PPP) is predicted to rise from about $34,087 in 2022 to just under $36,388 in 2026.
+- The unemployment rate, which dropped in 2022, is forecasted to increase again, reaching about 4.98% by 2026.
+
+#### Indonesia
+- Average inflation is projected to fall sharply, from 4.14% in 2022 to just 0.12% in 2026.
+- GDP per capita is expected to increase steadily from $13,485 in 2022 to around $14,792 in 2026.
+- The unemployment rate is likely to rise slightly, from 5.86% in 2022 to around 6.32% in 2026.
+
+#### Philippines
+- Inflation is forecasted to continue rising slowly, going from 5.82% in 2022 to about 5.87% in 2026.
+- GDP per capita should grow steadily from $9,715 to roughly $10,540 during the same period.
+- The unemployment rate is expected to increase from 5.4% in 2022 to about 7.56% by 2026.
+
+It is important to note that these projections are based on historical data and do not account for external factors such as policy changes, global economic shifts, or unforeseen events. Access to more granular data would allow for the use of more sophisticated forecasting models, potentially improving prediction accuracy.
+
+---
+
 ## Conclusion
 
 The ASEAN economic analysis conducted for Timrow Traders offers a comprehensive view of the region’s macroeconomic landscape, enabling data-driven insights for international expansion. After evaluating a wide array of indicators (such as GDP growth, unemployment, inflation stability, population trends, and purchasing power), three countries emerged as strong candidates for market entry: Malaysia, Philippines, and Indonesia
