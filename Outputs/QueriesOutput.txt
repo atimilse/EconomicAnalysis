@@ -1,0 +1,141 @@
+﻿Country                                            GDP_Per_Capita
+-------------------------------------------------- ----------------------
+Singapore                                          132468.93
+Malaysia                                           34086.879
+Thailand                                           21242.128
+
+(3 rows affected)
+
+Country                                            Unemployment_Rate
+-------------------------------------------------- ----------------------
+Indonesia                                          5.86
+Philippines                                        5.4
+Malaysia                                           3.825
+
+(3 rows affected)
+
+Country                                            Inflation
+-------------------------------------------------- ----------------------
+Malaysia                                           3.379
+Indonesia                                          4.139
+Philippines                                        5.821
+
+(3 rows affected)
+
+Country                                            Avg_GDP_Growth
+-------------------------------------------------- ----------------------
+Indonesia                                          3.4274
+Philippines                                        3.2476
+Malaysia                                           3.1952
+Singapore                                          2.9042
+Thailand                                           0.8704
+
+(5 rows affected)
+
+Country                                            GDP_Per_Capita         Avg_Standard_of_Living
+-------------------------------------------------- ---------------------- ----------------------
+Singapore                                          132468.93              High
+Malaysia                                           34086.879              High
+Thailand                                           21242.128              High
+Indonesia                                          13484.728              High
+Philippines                                        9714.916               Upper Middle
+
+(5 rows affected)
+
+Country
+--------------------------------------------------
+
+(0 rows affected)
+
+Country                                            Current_USD_GDP        Unemployment_Rate
+-------------------------------------------------- ---------------------- ----------------------
+Indonesia                                          1319.076               5.86
+Malaysia                                           407.606                3.825
+Philippines                                        404.353                5.4
+Singapore                                          498.475                2.1
+Thailand                                           495.622                1.3
+
+(5 rows affected)
+
+Country                                            Employment_Rate        Population_in_millions Employment_Catgeory
+-------------------------------------------------- ---------------------- ---------------------- -------------------
+Thailand                                           98.7                   70.078                 HIGH
+Singapore                                          97.9                   5.637                  HIGH
+Malaysia                                           96.175                 32.652                 HIGH
+Philippines                                        94.6                   110.94                 HIGH
+Indonesia                                          94.14                  275.72                 HIGH
+
+(5 rows affected)
+
+Country                                            GDP_Real_Growth        Employment_Rate
+-------------------------------------------------- ---------------------- ----------------------
+Indonesia                                          5.307                  94.14
+Malaysia                                           8.862                  96.175
+Philippines                                        7.581                  94.6
+Singapore                                          3.838                  97.9
+Thailand                                           2.512                  98.7
+
+(5 rows affected)
+
+Country                                            Avg_Inflation_5year
+-------------------------------------------------- ----------------------
+Malaysia                                           1.2698
+Thailand                                           1.6464
+Singapore                                          1.8496
+Indonesia                                          2.7688
+Philippines                                        3.9686
+
+(5 rows affected)
+
+Country                                            Inflation_Average      Inflation_Category
+-------------------------------------------------- ---------------------- ------------------
+Malaysia                                           3.379                  Moderate
+Indonesia                                          4.139                  Moderate
+Philippines                                        5.821                  Volatile
+Thailand                                           6.077                  Volatile
+Singapore                                          6.121                  Volatile
+
+(5 rows affected)
+
+Country                                            EOP_Inflation          EOP_Inflation_Category
+-------------------------------------------------- ---------------------- ----------------------
+Malaysia                                           3.775                  Moderate
+Indonesia                                          5.411                  Volatile
+Thailand                                           5.89                   Volatile
+Singapore                                          6.46                   Volatile
+Philippines                                        8.054                  Volatile
+
+(5 rows affected)
+
+Country                                            Year        Population
+-------------------------------------------------- ----------- ----------------------
+Indonesia                                          2018        264.162
+Indonesia                                          2019        266.912
+Indonesia                                          2020        270.204
+Indonesia                                          2021        272.679
+Indonesia                                          2022        275.72
+Malaysia                                           2018        32.382
+Malaysia                                           2019        32.523
+Malaysia                                           2020        32.447
+Malaysia                                           2021        32.576
+Malaysia                                           2022        32.652
+Philippines                                        2018        105.76
+Philippines                                        2019        107.29
+Philippines                                        2020        109.2
+Philippines                                        2021        110.08
+Philippines                                        2022        110.94
+Singapore                                          2018        5.639
+Singapore                                          2019        5.704
+Singapore                                          2020        5.686
+Singapore                                          2021        5.454
+Singapore                                          2022        5.637
+Thailand                                           2018        69.428
+Thailand                                           2019        69.626
+Thailand                                           2020        69.8
+Thailand                                           2021        69.951
+Thailand                                           2022        70.078
+
+(25 rows affected)
+
+
+Completion time: 2025-10-05T11:36:14.9708034-04:00
